@@ -8,7 +8,7 @@ selector {
 body {
 	font-family: Georgia;
 	color: 444444;
-	background-color: cornsilk;
+	background-color: FloralWhite;
 	width: 70%;
 	margin-left: auto;
 	margin-right: auto;
@@ -16,14 +16,12 @@ body {
 	
 }
 
-/* ID selector */
-#contact {
-	background-color: gold;
-	border-top: 1px solid black;
-}
-
-/* Descendant Selector */
-#contact h2 {
-	font-size: 125%;
-}
+nav {
+	text-align: center;
+	}
+	
+img {
+	max-width: 100%;
+	height: auto;
+	}
 
